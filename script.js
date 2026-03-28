@@ -8,7 +8,6 @@ const gifStages = [
     "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
 ]
-
 const noMessages = [
     "No",
     "Are you positive? 🤔",
